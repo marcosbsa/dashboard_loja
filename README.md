@@ -26,6 +26,12 @@ Este projeto contém a análise de dados de uma loja de moda cobrindo o período
 
 ---
 
+## 🔗 Acesse o Projeto
+
+https://app.fabric.microsoft.com/view?r=eyJrIjoiZGMzMjIyNDQtODdmZC00OTVlLTk3MWEtY2EwYmMwZTk0ZGZlIiwidCI6IjU1ODQ1MjA3LTk3YjAtNDU4OS1hNjQxLTQ4NGUzNjAxOTlkNyJ9
+
+---
+
 ## 🔢 Métricas Principais
 
 | Indicador | Valor |
